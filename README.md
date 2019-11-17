@@ -1,2 +1,3 @@
-# Breadth-First-Search
-An implementation of breadth first search in python.
+# Breadth First Search
+This is an implementation of breadth first search using Python.
+Algorithm used is from CLRS.
